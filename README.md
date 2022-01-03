@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a Cloud & DevOps Engineer, passionate about finance and modern development practices. 
+
 Currently working on : TUI Finance Applications in Golang & Embeded Automotive C++
 
 **Email** : Alexandre.joual@gmail.com
