@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Cloud & DevOps Engineer, passionate about finance and modern development practices. 
+Currently working on : TUI Finance Applications in Golang & Embeded Automotive C++
+
+**Email** : Alexandre.joual@gmail.com
+
 <!--
 **AlexandreJoual/AlexandreJoual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
