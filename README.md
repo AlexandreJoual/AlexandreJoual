@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Cloud & DevOps Engineer, passionate about finance and modern development practices. 
+I'm a Cloud & DevOps Engineer, passionate about all things Cloud Native.
 
-Currently working on : TUI Finance Applications in Golang & Embeded Automotive C++
+I'm currently learning native iOS develoment and CI/CD
 
 **Email** : Alexandre.joual@gmail.com
 
