@@ -2,7 +2,6 @@
 
 I'm a Cloud & DevOps Engineer, passionate about all things Cloud Native.
 
-I'm currently learning native iOS development.
 
 **Email** : Alexandre.joual@gmail.com
 
