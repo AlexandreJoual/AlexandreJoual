@@ -3,8 +3,6 @@
 I'm a Cloud & DevOps Engineer, passionate about all things Cloud Native.
 
 
-**Email** : Alexandre.joual@gmail.com
-
 <!--
 **AlexandreJoual/AlexandreJoual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
